@@ -1,2 +1,4 @@
+--find-links wheelhouse
+
 pandas==0.21.0
 nltk==3.2.5
